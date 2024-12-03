@@ -1,0 +1,9 @@
+[submodule "reveal.js-plugin-spotlight"]
+	path = reveal.js-plugin-spotlight
+	url = git@github.com:denniskniep/reveal.js-plugin-spotlight.git
+[submodule "reveal.js-menu"]
+	path = reveal.js-menu
+	url = git@github.com:denehyg/reveal.js-menu.git
+[submodule "reveal-drawer"]
+	path = reveal-drawer
+	url = git@github.com:burnpiro/reveal-drawer.git

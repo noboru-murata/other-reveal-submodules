@@ -1,0 +1,2 @@
+# other-reveal-submodules
+emacs-reveal-submodules に含まれない plugin の collection
